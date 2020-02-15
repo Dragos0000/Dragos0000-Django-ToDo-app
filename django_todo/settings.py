@@ -25,7 +25,7 @@ SECRET_KEY = 'q-(tgu06qqc_pypylsqpqlxzir=26l_z#jjp87#18!mf2at99v'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['96c14c07be984ce9b9cca7bc35e8e2c4.vfs.cloud9.us-east-1.amazonaws.com']
+ALLOWED_HOSTS = ['96c14c07be984ce9b9cca7bc35e8e2c4.vfs.cloud9.us-east-1.amazonaws.com', 'todo-aplication.herokuapp.com']
 
 
 # Application definition
